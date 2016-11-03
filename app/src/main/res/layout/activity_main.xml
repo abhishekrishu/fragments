@@ -15,15 +15,15 @@
 
     <Button
         android:text="fragmentsone"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:id="@+id/button"
         android:onClick="ChangeFragment" />
 
     <Button
         android:text="fragmentstwo"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:id="@+id/button2"
         android:onClick="ChangeFragment" />
     <fragment
